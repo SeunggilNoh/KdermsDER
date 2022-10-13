@@ -8,5 +8,9 @@ __credits__ = ["Jun-Hyeok Kim", "Wooyoung Cho", "SeungGil Noh"]
 __version__ = "2.03"
 __maintainer__ = "Jun-Hyeok Kim"
 __email__ = "junhyeok8407@gm.gist.ac.kr"
-__status__ = "Update Functions and Refactoring"
+gi__status__ = "Update Functions and Refactoring"
 """
+
+# 추가하자 이부분 dddd
+
+a = 10
